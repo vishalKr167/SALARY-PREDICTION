@@ -1,6 +1,4 @@
 Salary Prediction
-Author: Vishal Kumar
-College: Swami Vivekananda University
 
 📌 Introduction
 This project focuses on predicting salaries based on multiple professional and demographic factors such as age, gender, education level, job title, and years of experience. A dataset containing 6,704 records and 6 features was used to train and evaluate various machine learning models to identify the most effective approach for accurate salary prediction.
@@ -64,6 +62,9 @@ Linear Regression had the lowest R² score (0.833), showing limitations in model
 
 📌 Conclusion
 The Random Forest Regressor proved to be the most effective model for this salary prediction task.
+
+
+Author: Vishal Kumar
 
 The analysis revealed that factors such as experience, job title, and education level play a critical role in determining salary.
 
